@@ -4,9 +4,11 @@ void main() {
   double first, second, temp;
   printf("Enter first number: ");
   //gettin error undefine scan.
+  // scan is not a valid definition 
   scanf("%lf", &first);
   printf("Enter second number: ");
   //gettin error undefine scan.
+  // scan is not a valid definition 
   scanf("%lf", &second);
 
   temp = first;
