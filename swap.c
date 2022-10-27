@@ -4,10 +4,10 @@ void main() {
   double first, second, temp;
   printf("Enter first number: ");
   //gettin error undefine scan.
-  scan("%lf", &first);
+  scanf("%lf", &first);
   printf("Enter second number: ");
   //gettin error undefine scan.
-  scan("%lf", &second);
+  scanf("%lf", &second);
 
   temp = first;
   
